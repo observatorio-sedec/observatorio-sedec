@@ -2,7 +2,6 @@
 [![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:observatorio@sedec.mt.gov.br)
 
 ![observatorio GitHub stats](https://github-readme-stats.vercel.app/api?username=observatorio-sedec&show_icons=true&theme=tokyonight)
-<p></p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=observatorio-sedec&layout=compact)
 ### 🤖TECHS
 
